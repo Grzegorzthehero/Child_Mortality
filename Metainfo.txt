@@ -1,0 +1,12 @@
+Name of QuantLet: Load_Merge_Data
+
+Published in: Statistical Programming Languages 
+
+Description: Loads and merges data from a file to R.
+
+Keywords: mortality, diseases, children, deaths, GDP, income, Ginni, merging, loading, data, excel, 
+ 
+Author: Klaas Miersch
+
+Submitted: Wed, July 04 2018 by Klaas Miersch 
+
