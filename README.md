@@ -10,6 +10,10 @@ The project aims at determining the effect of average income differences between
 
 R 
 
+# Algorithm 
+
+Linear Regression
+
 
 
 
