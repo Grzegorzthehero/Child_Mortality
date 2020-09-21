@@ -1,2 +1,3 @@
-# QuantLet
-SPL 2018 
+# Project submitted for an university course "Statistical Programming Languages" 
+
+
